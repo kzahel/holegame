@@ -2,6 +2,8 @@
 
 A web-based clone of the "Donut County" hole mechanic, built with **Three.js** and **Cannon-es**.
 
+**[Play the Live Demo](https://kyle.graehl.org/holegame/)**
+
 ![Demo](../docs/walkthrough.md) *(See docs for details)*
 
 ## Features
