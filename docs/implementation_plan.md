@@ -1,4 +1,5 @@
 # Implementation Plan - WebGL Hole Game
+> Created by Antigravity Gemini 3 Pro High
 
 ## Goal
 Create a "Donut County" clone in Three.js/TypeScript where a hole can move around and swallow objects.

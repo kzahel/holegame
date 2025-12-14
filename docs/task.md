@@ -1,4 +1,5 @@
 # Tasks
+> Created by Antigravity Gemini 3 Pro High
 
 - [x] Project Setup <!-- id: 0 -->
     - [x] Initialize Vite project (Vanilla TS) <!-- id: 1 -->

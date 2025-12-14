@@ -1,4 +1,5 @@
 # WebGL Hole Game Walkthrough
+> Created by Antigravity Gemini 3 Pro High
 
 I have implemented a "Donut County" style hole mechanic using **Three.js** and **Cannon-es**.
 
